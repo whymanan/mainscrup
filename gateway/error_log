@@ -1,0 +1,7 @@
+[02-Mar-2022 15:55:31 Asia/Kolkata] PHP Fatal error:  Cannot use empty array elements in arrays in /home/gitindiapay/public_html/gateway/application/modules/aeps2/controllers/PaySprintAepsController.php on line 1185
+[02-Mar-2022 15:55:45 Asia/Kolkata] PHP Fatal error:  Cannot use empty array elements in arrays in /home/gitindiapay/public_html/gateway/application/modules/aeps2/controllers/PaySprintAepsController.php on line 1185
+[02-Mar-2022 15:55:46 Asia/Kolkata] PHP Fatal error:  Cannot use empty array elements in arrays in /home/gitindiapay/public_html/gateway/application/modules/aeps2/controllers/PaySprintAepsController.php on line 1185
+[24-May-2022 12:01:55 Asia/Kolkata] PHP Fatal error:  Cannot use temporary expression in write context in /home/gitindiapay/public_html/gateway/application/config/routes.php on line 29
+[08-Aug-2022 13:26:26 Asia/Kolkata] PHP Fatal error:  Cannot redeclare UserController::manual_notification() in /home/moonpe/public_html/gateway/application/modules/user/controllers/UserController.php on line 75
+[10-Nov-2022 12:58:50 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Common_model::get_vendor_by_name_by_prority() in /home/payonclickco/public_html/gateway/application/models/Common_model.php on line 586
+[21-Nov-2022 12:20:39 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 46137344 bytes exhausted (tried to allocate 20480 bytes) in /home/payonclickco/public_html/gateway/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 157

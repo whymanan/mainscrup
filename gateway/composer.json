@@ -1,0 +1,13 @@
+{
+    "name": "vite/emopay",
+    "require": {
+        "guzzlehttp/guzzle": "^7.2",
+        "phpoffice/phpspreadsheet": "^1.15"
+    },
+    "authors": [
+        {
+            "name": "rectorsol",
+            "email": "info@rectorsol.com"
+        }
+    ]
+}
