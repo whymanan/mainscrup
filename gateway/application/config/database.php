@@ -8,7 +8,7 @@ $db['default'] = array(
 	'dsn'	=> 'mysql:host=148.66.132.29;dbname=NEWDATABASEUSER',
 	'hostname' => '148.66.132.29',
 	'username' => 'NEWDATABASEUSER',
-	'password' => 'cNK.-=GgM~iG',
+	'password' => 'databasepasswordhere',
 	'database' => 'NEWDATABASENAME',
 
 	'dbdriver' => 'pdo',
