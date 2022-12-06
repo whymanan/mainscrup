@@ -14,6 +14,6 @@ find /var/www/html/testing.vitefintech.co.in/ -type f -exec sed -i -e s/database
 find /var/www/html/testing.vitefintech.co.in/ -type f -exec sed -i -e s/NEWDATABASENAME/whymanan_oip/g {} \;
 find /var/www/html/testing.vitefintech.co.in/ -type f -exec sed -i -e s#148.66.132.29#148.66.132.29#g {} \;
 find /var/www/html/testing.vitefintech.co.in/ -type f -exec sed -i -e s#payonclick.co.in/payonclick#testing.vitefintech.co.in#g {} \;
-find /var/www/html/testing.vitefintech.co.in/ -type f -exec sed -i -e s#payonclick.co.in/payonclick-auth#testing.vitefintech.co.in#g {} \;
+find /var/www/html/testing.vitefintech.co.in/ -type f -exec sed -i -e s#payonclick.co.in/payonclick-auth#testing.vitefintech.co.in-auth#g {} \;
 
 tar -zcvf testing.vitefintech.com.tar.gz gateway onlineindiapay-auth-service onlineindiapay-public onlineindiapay
