@@ -5,7 +5,7 @@ $active_group = 'default';
 $query_builder = TRUE;
 
 $db['default'] = array(
-	'dsn'	=> 'mysql:host=148.66.132.29;dbname=NEWDATABASEUSER',
+	'dsn'	=> 'mysql:host=148.66.132.29;dbname=NEWDATABASENAME',
 	'hostname' => '148.66.132.29',
 	'username' => 'NEWDATABASEUSER',
 	'password' => 'databasepasswordhere',
